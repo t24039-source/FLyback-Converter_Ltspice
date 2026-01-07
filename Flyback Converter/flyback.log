@@ -1,0 +1,18 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\admin\Desktop\flyback.net
+Start Time: Wed Jan  7 16:36:06 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+
+Simulation stopped by user.
+Total elapsed time: 8.080 seconds.
+
+Files loaded:
+C:\Users\admin\Desktop\flyback.net
+C:\Users\admin\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\admin\AppData\Local\LTspice\lib\cmp\standard.mos
+
